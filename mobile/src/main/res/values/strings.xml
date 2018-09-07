@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Quotidian</string>
+    <string name="intro">Welcome to Quotidian, important reminders to bring the new into the normal.</string>
 </resources>
