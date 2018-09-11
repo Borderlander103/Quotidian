@@ -35,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(MainActivity.this, "Yo!", Toast.LENGTH_LONG).show();
+                Intent settingIntent = new Intent(MainActivity.this, ActivitySettings.class);
+                startActivity(settingIntent);
             }
         });
 

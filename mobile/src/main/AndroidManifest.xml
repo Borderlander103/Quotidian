@@ -22,6 +22,10 @@
             android:name=".ActivityQuoteList"
             android:label="Quote List"
             />
+        <activity
+            android:name=".ActivitySettings"
+            android:label="Settings"
+            />
     </application>
 
 </manifest>
